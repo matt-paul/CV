@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2015 to November 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -34,19 +34,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Postsql, Firebase
 - Git, Github
 
-#### SAE Institute, London 1999 - 2001
+#### SAE Institute, London 1999 to 2001
 
 - BA Hons, Recording Arts
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+#### Google Squared Digital Marketing 2015
 
 ## Experience
 
 **Metropolis Studios, London** (2001 to 2008)    
-*Protools Engineer*
-*Assistant Engineer*
+*Protools Engineer*,
+*Assistant Engineer*,
 *Engineer*
 
 **Freelance Sound Engineer / Producer** (2008 to 2013)
