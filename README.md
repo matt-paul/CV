@@ -1,4 +1,4 @@
-## Your Name
+## Matt Paul
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -30,11 +30,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Rspec, Capybara, Jasmine, Protractor, Karma
+- Postsql, Firebase
+- Git, Github
 
-#### Your University / College (start_date to end_date)
+#### SAE Institute, London 1999 - 2001
 
-- Subject, any specialisms
+- BA Hons, Recording Arts
 - Grade
 - Other cool stuff
 
@@ -42,7 +44,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Metropolis Studios, London** (2001 to 2008)    
+*Protools Engineer*
+*Assistant Engineer*
+*Engineer*
+
+**Freelance Sound Engineer / Producer** (2008 to 2013)
+
+**Klaremont** (2013 to 2015)   
+*Project Manager and Digital Marketing*  
