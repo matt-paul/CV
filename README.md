@@ -46,16 +46,13 @@ After leaving the music industy in 2013, and spending a couple of years developi
 - Version control using Git, Github
 - Remove this list of technologies!!! Unless putting them in context Most experience with, touch on
 
-#### SAE Technology Institute, London. 1999 to 2001
-
-- BA Hons, Recording Arts
-- Grade
-- Other cool stuff
-
 #### Google Squared Digital Marketing Certificate 2015
  - 6 month part time course, focusing on startups and digital marketing, developed by Google and endorsed by the IPA.
 https://www.wearesquared.com/
 
+#### SAE Technology Institute, London. 1999 to 2001
+
+- BA (Hons), Recording Arts
 
 
 ## Experience
