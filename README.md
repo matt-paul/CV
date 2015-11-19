@@ -38,8 +38,8 @@ After leaving the music industy in 2013, and spending a couple of years developi
 - Use of version control software from day 1 (Git, Github), including branching and dealing with merge conflicts.
 
 #### Google Squared Digital Marketing Certificate 2015
- - 6 month part time course, focusing on startups and digital marketing, developed by Google and endorsed by the IPA.
-https://www.wearesquared.com/
+ - [6 month part-time course](https://www.wearesquared.com/), focused on startups and digital marketing, developed by Google and endorsed by the IPA.
+
 
 #### SAE Technology Institute, London. 1999 to 2001
 
