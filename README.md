@@ -11,7 +11,7 @@ After a successful decade in the music industry, notable acheivements including 
 
  - Managed the business requirements, product development and implemtation of a new proof of delivery and vehicle tracking system with both internal and external developers that allowed the company to track deliveries and automate a process that had previously been paper based.  This resulted in 20% less administration and processing per delivery whilst offering improved customer service. www.podfather.com
  
- -  I project managed the upgrade of the companies E.R.P software(Microsoft Dynamics Nav), working with external developers and internal stakeholders in order to smoothly transition a circa 1998 system to a modern version.
+ -  I project managed the upgrade of the companies E.R.P software(Microsoft Dynamics Nav), working with external developers and internal stakeholders in order to smoothly transition a circa 1998 system to a modern version. http://www.microsoft.com/en-gb/dynamics/erp-nav-overview.aspx
  
 
 #### Teamwork and Training
