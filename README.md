@@ -29,13 +29,13 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
 #### Makers Academy (August 2015 to November 2015)
 
-- Curiosity and hungry passion for code
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
 - My final project at Makers Academy was for [Alarming](https://github.com/hvenables/alarming), a social alarm clock, in which we choose to use Ionic and Firebase, two technologies that we had not covered in the course.
-- Extensive use of version control software (Git, Github), including branching and dealing with merge conflicts.
- - Independant thinker and problem solver.
  
+- Taught best practices and principles of software engineering - OOP, TDD, SOLID, MVC, DDD
+
+- Extensive experience of pairing and group projects, in addition to working on my own.
+
+- Use of version control software from day 1 (Git, Github), including branching and dealing with merge conflicts.
 
 #### Google Squared Digital Marketing Certificate 2015
  - 6 month part time course, focusing on startups and digital marketing, developed by Google and endorsed by the IPA.
