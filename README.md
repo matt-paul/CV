@@ -58,12 +58,12 @@ https://www.wearesquared.com/
 ## Experience
 
 **Klaremont** (2013 to 2015)   
-*Project Manager and Digital Marketing*  
+*Project Management, Business Analysis and Digital Marketing*  
 
 **Freelance Sound Engineer / Producer** (2008 to 2013)
 
 **Metropolis Studios, London** (2001 to 2008)    
-*Engineer*
+*Engineer*,
 *Protools Engineer*,
 *Assistant Engineer*,
 *Night Reception / Intern*
