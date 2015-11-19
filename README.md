@@ -8,7 +8,7 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
 #### Business Analysis and Improving Productivity
 
- -  Reduced brochure creation time from average of 6 months to 5 weeks . Due to new business requirements, I re-evaluated the catalogue creation process, and identified a solution that allowed far greater automation of much of the process, and ongoing continual incremental updates and reprints with an internal lead time of 1 week.
+ -  Reduced brochure creation time from average of 6 months to 5 weeks . Due to new business requirements, I re-evaluated the catalogue creation process, and identified a solution that allowed far greater automation and ongoing continual incremental updates.
 
  - Managed the business requirements, product development and implemtation of a new proof of delivery and vehicle tracking system with both internal and external developers that allowed the company to track deliveries and automate a process that had previously been paper based.  This resulted in 20% less administration and processing per delivery whilst offering improved customer service. www.podfather.com
  
@@ -30,12 +30,12 @@ After leaving the music industy in 2013, and spending a couple of years developi
 #### Makers Academy (August 2015 to November 2015)
 
 - Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - My final project at Makers Academy was for [Alarming](https://github.com/hvenables/alarming), a social alarm clock, in which we choose to use Ionic and Firebase, two technologies that we had not covered in the course.
-- Version control using Git, Github
-- Remove this list of technologies!!! Unless putting them in context Most experience with, touch on
+- Extensive use of version control software (Git, Github), including branching and dealing with merge conflicts.
+ - Independant thinker and problem solver.
+ 
 
 #### Google Squared Digital Marketing Certificate 2015
  - 6 month part time course, focusing on startups and digital marketing, developed by Google and endorsed by the IPA.
