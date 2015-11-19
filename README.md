@@ -1,16 +1,24 @@
 ## Matt Paul
 
+Notes will 
+
+
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+First impressive sentance.  Second - what i have done.  Third sentance - personalize this to eg front end in fashion  industry.  Continue learning with you and conotribute to your company beacuse of x
 ## Skills
 
 #### This Skill
 
+Cvs with numbers better than cvs without - eg % productivity increase
+
+
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
-- Achievements
-- Evidence
+- Achievements ***
+- Evidence - Links
 
 #### Another Skill
 
@@ -25,6 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (August 2015 to November 2015)
 
+££What was final project? During finak project, as well as Ruby Javascript we used IOnic and Fireabae etc etc
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
@@ -32,7 +41,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Capybara, Jasmine, Protractor, Karma
 - Postsql, Firebase
-- Git, Github
+- Version control using Git, Github
+- Remove this list of technologies!!! Unless putting them in context Most experience with, touch on
 
 #### SAE Institute, London 1999 to 2001
 
