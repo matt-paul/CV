@@ -8,7 +8,7 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
 #### Business Analysis and Improving Productivity
 
- - Managed the business requirements, product development and implemtation of a new [proof of delivery and vehicle tracking system](www.podfather.com) with both internal and external developers that allowed the company to track deliveries and automate a process that had previously been paper based.  This resulted in 20% less administration and processing per delivery whilst offering improved customer service.
+ - Managed the business requirements, product development and implementation of a new [proof of delivery and vehicle tracking system](www.podfather.com) with both internal and external developers that allowed the company to track deliveries and automate a process that had previously been paper based.  This resulted in 20% less administration and processing per delivery whilst offering improved customer service.
 
  -  Reduced brochure creation time from average of 6 months to 5 weeks . Due to new business requirements, I re-evaluated the catalogue creation process, and identified a solution that allowed far greater automation and ongoing continual incremental updates.
 
