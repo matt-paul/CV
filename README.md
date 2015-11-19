@@ -52,8 +52,11 @@ After leaving the music industy in 2013, and spending a couple of years developi
 - Grade
 - Other cool stuff
 
-#### Google Squared Digital Marketing 2015
+#### Google Squared Digital Marketing Certificate 2015
+ - 6 month part time course, focusing on startups and digital marketing, developed by Google and endorsed by the IPA.
 https://www.wearesquared.com/
+
+
 
 ## Experience
 
