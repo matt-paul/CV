@@ -31,6 +31,8 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
 - My final project at Makers Academy was for [Alarming](https://github.com/hvenables/alarming), a social alarm clock, in which we choose to use Ionic and Firebase, two technologies that we had not covered in the course.
  
+ - Co-created [Rails Messenger](https://rubygems.org/gems/rails-messenger), a simple and lightweight Ruby Gem for easily adding messaging functionality to Rails projects. 
+ 
 - Taught best practices and principles of software engineering - OOP, TDD, SOLID, MVC, DDD
 
 - Extensive experience of pairing and group projects, in addition to working on my own.
