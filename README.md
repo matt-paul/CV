@@ -8,15 +8,17 @@ After a successful decade in the music industry, notable acheivements including 
 
  -  Reduced brochure creation time from average of 6 months to 5 weeks . Due to new business requirements, I re-evaluated the catalogue creation process, and identified a solution that allowed far greater automation of much of the process, and ongoing continual incremental updates and reprints with an internal lead time of 1 week.
 
- -  I project managed the upgrade of the companies E.R.P software(Microsoft Dynamics Nav), working with external developers and internal stakeholders in order to smoothly transition a circa 1998 system to a modern version.
 
  - Managed the business requirements, product development and implemtation of a new proof of delivery and vehicle tracking system with both internal and external developers that allowed the company to track deliveries and automate a process that had previously been paper based.  This resulted in 20% less administration and processing per delivery whilst offering improved customer service. www.podfather.com
+ 
+ -  I project managed the upgrade of the companies E.R.P software(Microsoft Dynamics Nav), working with external developers and internal stakeholders in order to smoothly transition a circa 1998 system to a modern version.
  
 
 #### Teamwork and Training
 
  - Within Klaremont, I also managed the Marketing team and trained them to use of the company's CMS, basic HTML and CSS, and SEO techniques, as well as creating a digital strategy.
- - Trained up juniors at Metropolis, a world renowned recording studio, in best practices and maintaining the high technical standards that it is known for. I feel extremely lucky to have started my career here, as it was a fantastic training environment still very much routed in the 'work your way up from the bottom' ethos. 
+ - 
+ - Trained up juniors at Metropolis, a world renowned recording studio, teaching best practices and maintaining the high technical standards that it is known for. I feel extremely lucky to have started my career here, as it was a fantastic training environment still very much routed in the 'work your way up from the bottom' ethos, and I relished receiving and passing on skills from people, some of whom had spent decades in pursuit of excellence at the highest level. 
 
 
 ## Education
