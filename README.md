@@ -31,7 +31,7 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
 - My final project at Makers Academy was for [Alarming](https://github.com/hvenables/alarming), a social alarm clock, in which we choose to use Ionic and Firebase, two technologies that we had not covered in the course.
  
- - Co-created [Rails Messenger](https://rubygems.org/gems/rails-messenger), a simple and lightweight Ruby Gem for easily adding messaging functionality to Rails projects. 
+- Co-created [Rails Messenger](https://rubygems.org/gems/rails-messenger), a simple and lightweight Ruby Gem for easily adding messaging functionality to Rails projects. 
  
 - Taught best practices and principles of software engineering - OOP, TDD, SOLID, MVC, DDD
 
@@ -39,7 +39,9 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
 - Use of version control software from day 1 (Git, Github), including branching and dealing with merge conflicts.
 
+
 #### Google Squared Digital Marketing Certificate 2015
+
  - [6 month part-time course](https://www.wearesquared.com/), focused on startups and digital marketing, developed by Google and endorsed by the IPA.
 
 
