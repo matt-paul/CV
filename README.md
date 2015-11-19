@@ -12,7 +12,7 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
  -  Reduced brochure creation time from average of 6 months to 5 weeks . Due to new business requirements, I re-evaluated the catalogue creation process, and identified a solution that allowed far greater automation and ongoing continual incremental updates.
 
- -  I project managed the upgrade of the ERP software, [Microsoft Dynamics Nav](http://www.microsoft.com/en-gb/dynamics/erp-nav-overview.aspx), working with external developers and internal stakeholders in order to smoothly transition a circa 1998 system to a modern version. http://www.microsoft.com/en-gb/dynamics/erp-nav-overview.aspx
+ -  I project managed the upgrade of the ERP software, [Microsoft Dynamics Nav](http://www.microsoft.com/en-gb/dynamics/erp-nav-overview.aspx), working with external developers and internal stakeholders in order to smoothly transition a circa 1998 system to a modern version. 
  
 
 #### Teamwork and Training
