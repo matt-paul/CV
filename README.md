@@ -1,6 +1,8 @@
 ## Matt Paul
 
-After a successful decade in the music industry, notable acheivements including a Grammy Nomination for work on Amy Winehouse 'Back to Black' album, and the the broadcast mix for the biggest ever live youtube streaming, U2's Live at the Rosebowl concert, to 4 million online viewers. After leaving the music industy in 2013, and spending a couple of years developing key business skills in a small business,  I am now looking for an entry level developer job with a focus on continual learning, software craftmanship, and TDD/BDD. 
+After a successful decade in the music industry, notable acheivements including a Grammy Nomination for work on Amy Winehouse 'Back to Black' album, and the the broadcast mix for the largest ever live streaming in YouTube's history, U2's Live at the Rosebowl concert(10 million live streams worldwide). 
+
+After leaving the music industy in 2013, and spending a couple of years developing key business skills in a small and dynamic foodservice business,  I am now looking for an entry level developer job with a focus on continual learning, software craftmanship, and TDD/BDD. 
 
 ## Skills
 
@@ -17,8 +19,16 @@ After a successful decade in the music industry, notable acheivements including 
 #### Teamwork and Training
 
  - Within Klaremont, I also managed the Marketing team and trained them to use of the company's CMS, basic HTML and CSS, and SEO techniques, as well as creating a digital strategy.
- - 
+
  - Trained up juniors at Metropolis, a world renowned recording studio, teaching best practices and maintaining the high technical standards that it is known for. I feel extremely lucky to have started my career here, as it was a fantastic training environment still very much routed in the 'work your way up from the bottom' ethos, and I relished receiving and passing on skills from people, some of whom had spent decades in pursuit of excellence at the highest level. 
+
+???? Under entrepreneurial ? With other examples ?
+ - I cofounded a 14,000ft arts venue on Commercial Road E1, and managed a team of up to 20 security, bar staff and technicians, as well as developed / managed relationships with external promoters, galleries, the council, and community groups. 
+
+
+ 
+
+
 
 
 ## Education
