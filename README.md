@@ -56,6 +56,7 @@ After leaving the music industy in 2013, and spending a couple of years developi
 *Project Management, Business Analysis and Digital Marketing*  
 
 **Freelance Sound Engineer / Producer** (2008 to 2013)
+[Partial Discography](http://www.discogs.com/artist/280212-Matt-Paul?filter_anv=0&type=Credits&page=1)
 
 **Metropolis Studios, London** (2001 to 2008)    
 *Engineer*,
