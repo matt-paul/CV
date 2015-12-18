@@ -21,7 +21,6 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
  - Trained up juniors at Metropolis, a world renowned recording studio, teaching best practices and maintaining the high technical standards that it is known for. I feel extremely lucky to have started my career here, as it was a fantastic training environment still very much routed in the 'work your way up from the bottom' ethos, and I relished receiving and passing on skills from people, some of whom had spent decades in pursuit of excellence at the highest level. 
 
-???? Under entrepreneurial ? With other examples ?
  - I cofounded a 14,000ft arts venue on Commercial Road E1, and managed a team of up to 20 security, bar staff and technicians, as well as developed / managed relationships with external promoters, galleries, the council, and community groups. 
 
 
@@ -42,7 +41,7 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
 #### Google Squared Digital Marketing Certificate 2015
 
- - [6 month part-time course](https://www.wearesquared.com/), focused on startups and digital marketing, developed by Google and endorsed by the IPA.
+ - [6 month part-time course](https://www.wearesquared.com/), focused on startups and digital marketing and analytics, developed by Google and endorsed by the IPA.
 
 
 #### SAE Technology Institute, London. 1999 to 2001
