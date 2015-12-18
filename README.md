@@ -17,9 +17,9 @@ After leaving the music industy in 2013, and spending a couple of years developi
 
 #### Teamwork and Training
 
- - Within Klaremont, I also managed the Marketing team and trained them to use of the company's CMS, basic HTML and CSS, and SEO techniques, as well as creating a digital strategy.
+ - Within Klaremont, I also managed the Marketing team and trained them to use the company's CMS, basic HTML and CSS, and SEO techniques, as well as creating a digital strategy.
 
- - Trained up juniors at Metropolis, a world renowned recording studio, teaching best practices and maintaining the high technical standards that it is known for. I feel extremely lucky to have started my career here, as it was a fantastic training environment still very much routed in the 'work your way up from the bottom' ethos, and I relished receiving and passing on skills from people, some of whom had spent decades in pursuit of excellence at the highest level. 
+ - Trained up junior sound engineers at Metropolis, a world renowned recording studio, teaching best practices and maintaining the high technical standards that it is known for. I feel extremely lucky to have started my career here, as it was a fantastic training environment still very much routed in the 'work your way up from the bottom' ethos, and I relished receiving and passing on skills from people, some of whom had spent decades in pursuit of excellence at the highest level. 
 
  - I cofounded a 14,000ft arts venue on Commercial Road E1, and managed a team of up to 20 security, bar staff and technicians, as well as developed / managed relationships with external promoters, galleries, the council, and community groups. 
 
@@ -32,11 +32,11 @@ After leaving the music industy in 2013, and spending a couple of years developi
  
 - Co-created [Rails Messenger](https://rubygems.org/gems/rails-messenger), a simple and lightweight Ruby Gem for easily adding messaging functionality to Rails projects. 
  
-- Taught best practices and principles of software engineering - OOP, TDD, SOLID, MVC, DDD
+- Learnt best practices and principles of software engineering - OOP, TDD, SOLID, MVC, DDD
 
-- Extensive experience of pairing and group projects, in addition to working on my own.
+- Gained extensive experience of pairing and group projects, in addition to working on my own.
 
-- Use of version control software from day 1 (Git, Github), including branching and dealing with merge conflicts.
+- Made use of version control software from day 1 (Git, Github), including branching and dealing with merge conflicts.
 
 
 #### Google Squared Digital Marketing Certificate 2015
