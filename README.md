@@ -1,6 +1,6 @@
 ## Matt Paul
 
-I spent a successful decade in the music industry, notable acheivements including a Grammy Nomination for work on Amy Winehouse 'Back to Black' album, and the broadcast mix for the largest ever live streaming in YouTube's history, U2's Live at the Rosebowl concert(10 million live streams worldwide). 
+I spent a successful decade in the music industry, notable acheivements including a Grammy Nomination for work on Amy Winehouse 'Back to Black' album, and the broadcast mix for the largest ever live streaming in YouTube's history, U2's Live at the Rosebowl concert (10 million live streams worldwide). 
 
 After leaving the music industy in 2013, and spending a couple of years developing key business skills in a small and dynamic foodservice business,  I am now looking for an entry level developer job with a focus on continual learning, software craftmanship, and TDD/BDD. 
 
