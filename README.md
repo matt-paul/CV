@@ -73,10 +73,7 @@ After leaving the music industry in 2013, and spending a couple of years develop
 *Assistant Engineer*,
 *Night Reception / Intern*
 
-## Contact
-Tel: +44 (0)7974 149910
 
-Email: mattpaul001@gmail.com
 
 
 
