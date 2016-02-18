@@ -4,7 +4,7 @@ I spent a successful decade in the music industry, notable achievements includin
 
 After leaving the music industry in 2013, and spending a couple of years developing key business skills in a small and dynamic foodservice business,  I am now looking for an entry level developer job with a focus on continual learning, software craftsmanship, and TDD/BDD. 
 
-## Technical Skills and Technologies
+## Technical Skills
 
 |                    | Good understanding                                         | Touched on                 |
 | ------------------ | :--------------------------------------------------------- | :------------------------- |
@@ -14,7 +14,7 @@ After leaving the music industry in 2013, and spending a couple of years develop
 | **Testing**        | Karma, Protractor, Jasmine, RSpec, Capybara                | Mocha, Chai, Nock          |
 | **Other**          | Grunt, Version control, Agile Methologies                 | MS Dynamics Nav            |
 
-## Skills
+## Business Experience
 
 #### Business Analysis and Improving Productivity
 
