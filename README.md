@@ -12,7 +12,7 @@ After leaving the music industry in 2013, and spending a couple of years develop
 | **Databases/ORMS** | PostGreSQL, DataMapper                                     | MongoDB, Firebase          |
 | **Frameworks**     | Express, Sinatra, Ruby on Rails, Angular JS, Bootstrap     | Node JS                    |
 | **Testing**        | Karma, Protractor, Jasmine, RSpec, Capybara                | Mocha, Chai, Nock          |
-| **Other**          | Grunt, Version control, Agile Methologies                 | MS Dynamics Nav            |
+| **Other**          | Grunt, Responsive Web Design, Version control, Agile       | MS Dynamics Nav            |
 
 ## Business Experience
 
