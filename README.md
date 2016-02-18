@@ -4,6 +4,16 @@ I spent a successful decade in the music industry, notable achievements includin
 
 After leaving the music industry in 2013, and spending a couple of years developing key business skills in a small and dynamic foodservice business,  I am now looking for an entry level developer job with a focus on continual learning, software craftsmanship, and TDD/BDD. 
 
+## Technical Skills and Technologies
+
+|                    | Good understanding                                         | Touched on                 |
+| ------------------ | :--------------------------------------------------------- | :------------------------- |
+| **Languages**      | Javascript, JQuery, Ruby, SASS, HTML, CSS                  | Firebase                   |
+| **Databases/ORMS** | PostGreSQL, DataMapper                                     | MongoDB                    |
+| **Frameworks**     | Express, Sinatra, Ruby on Rails, Angular JS, Bootstrap     | Node JS                    |
+| **Testing**        | Karma, Protractor, Jasmine, RSpec, Capybara                | Mocha, Chai, nock          |
+| **Other**          | GitHub, Version control, Agile Methologies                 | Heroku deployment          |
+
 ## Skills
 
 #### Business Analysis and Improving Productivity
