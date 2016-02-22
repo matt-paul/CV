@@ -1,8 +1,5 @@
 ## Matt Paul                                                                  
 
-###Contact
-mattpaul001@gmail.com 
-07974 149910
 
 I spent a successful decade in the music industry, notable achievements including a Grammy Nomination for work on Amy Winehouse 'Back to Black' album, and the broadcast mix for the largest ever live streaming in YouTube's history, U2's Live at the Rosebowl concert (10 million live streams worldwide). 
 
@@ -76,6 +73,9 @@ After leaving the music industry in 2013, and spending a couple of years develop
 *Protools Engineer*,
 *Assistant Engineer*,
 *Night Reception / Intern*
+
+## Contact
+Email: mattpaul001@gmail.com 
 
 
 
