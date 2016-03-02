@@ -28,6 +28,8 @@ After leaving the music industry in 2013, and spending a couple of years develop
 
 #### Teamwork and Training
 
+ - Teach at [codebar] (http://www.codebar.io/), an initiative to encourage under represented groups to learn to code through weelly progreamming workshops.
+
  - Within Klaremont, I also managed the Marketing team and trained them to use the company's CMS, basic HTML and CSS, and SEO techniques, as well as creating a digital strategy.
 
  - Trained up junior sound engineers at Metropolis, a world renowned recording studio, teaching best practices and maintaining the high technical standards that it is known for. I feel extremely lucky to have started my career here, as it was a fantastic training environment still very much routed in the 'work your way up from the bottom' ethos, and I relished receiving and passing on skills from people, some of whom had spent decades in pursuit of excellence at the highest level. 
