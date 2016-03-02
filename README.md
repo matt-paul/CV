@@ -28,7 +28,7 @@ After leaving the music industry in 2013, and spending a couple of years develop
 
 #### Teamwork and Training
 
- - Teach at [codebar] (http://www.codebar.io/), an initiative to encourage under represented groups to learn to code through weelly progreamming workshops.
+ - Teach at [codebar](http://www.codebar.io/), an initiative to encourage under represented groups to learn to code through weelly progreamming workshops.
 
  - Within Klaremont, I also managed the Marketing team and trained them to use the company's CMS, basic HTML and CSS, and SEO techniques, as well as creating a digital strategy.
 
