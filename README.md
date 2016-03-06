@@ -1,6 +1,5 @@
 ## Matt Paul                                                                  
 
-[Github Profile](www.github.com/matt-paul)
 
 I spent a successful decade in the music industry, notable achievements including a Grammy Nomination for work on Amy Winehouse 'Back to Black' album, and the broadcast mix for the largest ever live streaming in YouTube's history, U2's Live at the Rosebowl concert (10 million live streams worldwide). 
 
