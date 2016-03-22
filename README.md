@@ -17,9 +17,9 @@ After leaving the music industry in 2013, and spending a couple of years develop
 
 ### Showcase
 
-[Credit Card Comparison](https://github.com/matt-paul/credit-card-comparison) A responsive 'mobile first' credit card comparison single page, using Angular and SASS
+[Credit Card Comparison](https://github.com/matt-paul/credit-card-comparison) A responsive 'mobile first' credit card comparison single page, using Angular and SASS  https://github.com/matt-paul/credit-card-comparison
 
-[Martian Robots](https://github.com/matt-paul/martian-robots) Navigating a robot around Mars in Javascript, fully test driven using Jasmine.
+[Martian Robots](https://github.com/matt-paul/martian-robots) Navigating a robot around Mars in Javascript, fully test driven using Jasmine. https://github.com/matt-paul/martian-robots
 
 ## Business Experience
 
