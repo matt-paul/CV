@@ -15,6 +15,14 @@ After leaving the music industry in 2013, and spending a couple of years develop
 | **Testing**        | Karma, Protractor, Jasmine, RSpec, Capybara                | Mocha, Chai, Nock          |
 | **Other**          | Grunt, Responsive Web Design, Version control, Agile       | MS Dynamics Nav            |
 
+### Showcase
+
+[Credit Card Comparison](https://github.com/matt-paul/credit-card-comparison)
+- A responsive 'mobile first' credit card comparison single page, using Angular and SASS
+
+[Martian Robots](https://github.com/matt-paul/martian-robots)
+ - Navigating a robot around Mars in Javascript, fully test driven using Jasmine.
+
 ## Business Experience
 
 #### Business Analysis and Improving Productivity
