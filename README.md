@@ -78,8 +78,6 @@ After leaving the music industry in 2013, and spending a couple of years develop
 *Assistant Engineer*,
 *Night Reception / Intern*
 
-## Contact
-Email: mattpaul001@gmail.com 
 
 
 
